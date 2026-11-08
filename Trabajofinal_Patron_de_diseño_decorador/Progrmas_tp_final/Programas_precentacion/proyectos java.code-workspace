@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../proyectos java"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"debug.console.acceptSuggestionOnEnter": "on"
+	}
+}
